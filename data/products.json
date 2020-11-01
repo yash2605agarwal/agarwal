@@ -1,0 +1,115 @@
+{
+    "products": [{
+            "id": 7,
+            "title": "Samsung Single Door Refrigerator",
+            "image": "./products/refrigerator/images/1/1.webp",
+            "price": 18400,
+            "category": "REF"
+        },
+
+        {
+            "id": 1,
+            "title": "Samsung HD Ready LED TV",
+            "image": "./products/LED/samsung/images/1/1.png",
+            "price": 12490,
+            "category": "TV"
+        },
+        {
+            "id": 4,
+            "title": "Sony Bravia Android LED TV",
+            "image": "./products/LED/sony/images/1/1.jpg",
+            "price": 53999,
+            "category": "TV"
+        },
+        {
+            "id": 8,
+            "title": "Samsung Single Door Refrigerator",
+            "image": "./products/refrigerator/images/2/1.webp",
+            "price": 290,
+            "category": "REF"
+        },
+        {
+            "id": 2,
+            "title": "Samsung HD Ready LED TV ",
+            "image": "./products/LED/samsung/images/2/1.png",
+            "price": 17499,
+            "category": "TV"
+        },
+
+        {
+            "id": 5,
+            "title": "Sony Bravia Android LED TV",
+            "image": "./products/LED/sony/images/2/1.jpg",
+            "price": 38940,
+            "category": "TV"
+        },
+
+
+        {
+            "id": 9,
+            "title": "Samsung Single Door Refrigerator",
+            "image": "./products/refrigerator/images/3/1.jpg",
+            "price": 385,
+            "category": "REF"
+        },
+        {
+            "id": 3,
+            "title": "Samsung HD Ready LED TV",
+            "image": "./products/LED/samsung/images/2/1.png",
+            "price": 32700,
+            "category": "TV"
+        },
+        {
+            "id": 6,
+            "title": "Sony Bravia Android LED TV",
+            "image": "./products/LED/sony/images/3/1.jpg",
+            "price": 23990,
+            "category": "TV"
+        },
+        {
+            "id": 10,
+            "title": "Samsung Single Door Refrigerator",
+            "image": "./products/refrigerator/images/4/1.jpg",
+            "price": 14500,
+            "category": "REF"
+        },
+
+        {
+            "id": 11,
+            "title": "Samsung Single Door Refrigerator",
+            "image": "./products/refrigerator/images/5/1.jpg",
+            "price": 12500,
+            "category": "REF"
+        },
+        {
+            "id": 12,
+            "title": "Symphony Jumbo Air Cooler",
+            "image": "./products/cooler/images/1/1.jpg",
+            "price": 11999,
+            "category": "AIRC"
+        },
+        {
+            "id": 13,
+            "title": "Symphony Jumbo Air Cooler",
+            "image": "./products/cooler/images/2/1.jpg",
+            "price": 10419,
+            "category": "AIRC"
+        },
+        {
+            "id": 14,
+            "title": "Symphony Sumo Air Cooler",
+            "image": "./products/cooler/images/3/1.jpg",
+            "price": 11299,
+            "category": "AIRC"
+        },
+        {
+            "id": 15,
+            "title": "Symphony Winter Air Cooler",
+            "image": "./products/cooler/images/4/1.jpg",
+            "price": 12999,
+            "category": "AIRC"
+        }
+        
+
+    ]
+}
